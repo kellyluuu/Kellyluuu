@@ -1,4 +1,4 @@
-[![](https://i.ibb.co/6m4RjMy/banner-Converted.png)]
+![](https://i.ibb.co/6m4RjMy/banner-Converted.png)
 
 Check out my [Portfolio](devkelly.com) !!
 
