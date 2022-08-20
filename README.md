@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/6m4RjMy/banner-Converted.png)
 
-Check out my [Portfolio](www.devkelly.com) !!
+Check out my [Portfolio](https://devkelly.com/)
 
 And you can also get more info about me on my [LinkedIn Profile](https://www.linkedin.com/in/kellyluu916/)
 
