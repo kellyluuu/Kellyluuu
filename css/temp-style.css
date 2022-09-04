@@ -139,7 +139,7 @@ video {
 }
 #video:after {
   content: '';
-  opacity: 0.95;
+  opacity: 0.90;
   background: black; /* Old browsers */
   background: -moz-linear-gradient(top, black 40%, black 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, black 40%,black 100%); /* Chrome10-25,Safari5.1-6 */
