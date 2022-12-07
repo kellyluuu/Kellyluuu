@@ -16,9 +16,9 @@ Here's a short list of my skills:
 
 - Other: Product Development • Financial Analyst • SAP Products • Accounting • Cost Control • Project Management • Adobe Suite • Visual Basic • Power BI • Excel
 
-![Kelly Luu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyluuu&show_icons=true&theme=transparent)
+![Kelly Luu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyluuu&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyluuu&langs_count=10&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyluuu&langs_count=10&theme=transparent&layout=compact)
 
 
 [info@devkelly.com](mailto:info@devkelly.com)
