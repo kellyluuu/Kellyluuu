@@ -1,4 +1,3 @@
-![](https://i.ibb.co/6m4RjMy/banner-Converted.png)
 ![](/images/banner.png)
 ## Hi!! My name is Kelly!!
 #### Check out my [Portfolio](https://devkelly.com/)
