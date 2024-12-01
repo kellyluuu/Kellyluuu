@@ -10,7 +10,7 @@ Here's a short list of my skills:
 - Databases: SQL | PostgreSQL | MongoDB | XML | JSON
 - Other: Product Development • Financial Analyst • SAP Products • Accounting • Cost Control • Project Management • Adobe Suite • Visual Basic • Power BI • Excel
 
-![Kelly Luu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyluuu&show_icons=true&theme=nord&count_private=true)
+![Kelly Luu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyluuu&show_icons=false&theme=nord&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyluuu&langs_count=10&theme=nord&layout=compact&count_private=true)
 
 [info@devkelly.com](mailto:info@devkelly.com)
