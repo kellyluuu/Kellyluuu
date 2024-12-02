@@ -37,7 +37,7 @@
 	}
 	h1, h2 {
 		font-size:56px;
-		line-height:1.05;
+		line-height:1;
 		margin-bottom:10px;
 	}
 	.title-block p {
@@ -48,13 +48,13 @@
 	}
 	.service-icon {
 		width:80px;
-		height:80px;
-		line-height:80px;
-		font-size:30px;
-		margin: 0 auto;
+		height:100px;
+		line-height:60px;
+		font-size:50px;
+		margin: 10;
 	}
 	.service-box {
-		padding:30px 20px;
+		padding:20px;
 	}
 	.testimonial-content {
 		font-size:18px;
