@@ -435,12 +435,13 @@ a#logo {
 ================================================*/
 .about-img {
   margin: 0 auto 40px;
+  margin-top: 30px;
   position:relative;
 }
 .about-img img {
-  border-radius: 10px;
-  -webkit-box-shadow: 0 0 40px rgba(0,0,0,.3);
-  box-shadow: 0 0 40px rgba(0,0,0,.3);
+  border-radius: 50px;
+  -webkit-box-shadow: 0 0 40px rgba(239, 238, 238, 0.3);
+  box-shadow: 0 0 40px rgba(240, 237, 237, 0.3);
 }
 .about-contentbox {
   margin-top: 80px;
@@ -483,7 +484,7 @@ a#logo {
 .facts-list .item:hover {
   background:#fff;
   color:#1e1e1e;
-  opacity: .5;
+  opacity:0.5;
 }
 .facts-list .owl-dots {
   margin-bottom: 30px;
@@ -564,7 +565,8 @@ a#logo {
 }
 
 .owl-carousel .owl-dots .owl-dot.active {
-    background: #fff
+    background: #fff;
+    opacity: .7;
 }
 
 /*==============================================
