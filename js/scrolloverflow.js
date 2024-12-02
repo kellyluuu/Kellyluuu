@@ -218,8 +218,10 @@
       },
     });
     me.tap = function (e, eventName) {
-      var ev = document.createEvent("Event");
-      ev.initEvent(eventName, true, true);
+      var ev = new Event(eventName, {
+        bubbles: true,
+        cancelable: true
+      });
       ev.pageX = e.pageX;
       ev.pageY = e.pageY;
       e.target.dispatchEvent(ev);
@@ -228,8 +230,10 @@
       var target = e.target,
         ev;
       if (!/(SELECT|INPUT|TEXTAREA)/i.test(target.tagName)) {
-        ev = document.createEvent(window.MouseEvent ? "MouseEvents" : "Event");
-        ev.initEvent("click", true, true);
+        ev = new MouseEvent("click", {
+          bubbles: true,
+          cancelable: true
+        });
         ev.view = e.view || window;
         ev.detail = 1;
         ev.screenX = target.screenX || 0;

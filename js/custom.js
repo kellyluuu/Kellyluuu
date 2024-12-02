@@ -52,9 +52,9 @@
                 nav: false,
                 dots: true,
                 items: 3,
-                margin: 30,
-                autoplay: false,
-                smartSpeed: 700,
+                margin: 20,
+                autoplay: true,
+                smartSpeed: 250,
                 autoplayTimeout: 6000,
                 responsive: {
                     0: {
@@ -82,9 +82,9 @@
                 nav: false,
                 dots: true,
                 items: 3,
-                margin: 30,
-                autoplay: false,
-                smartSpeed: 700,
+                margin: 20,
+                autoplay: true,
+                smartSpeed: 250,
                 autoplayTimeout: 6000,
                 responsive: {
                     0: {
@@ -108,7 +108,7 @@
         }
         if ($('.gallery-list').length) {
             $('.gallery-list').owlCarousel({
-                loop: false,
+                loop: true,
                 nav: false,
                 dots: true,
                 items: 3,
@@ -134,12 +134,12 @@
         if ($('.testimonials-slider').length) {
             $('.testimonials-slider').owlCarousel({
                 loop: true,
-                nav: false,
+                nav: true,
                 dots: true,
                 items: 1,
                 margin: 30,
                 autoplay: true,
-                smartSpeed: 700,
+                smartSpeed: 250,
                 autoplayTimeout: 6000,
                 responsive: {
                     0: {
